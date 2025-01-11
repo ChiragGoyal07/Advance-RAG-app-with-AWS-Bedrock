@@ -1,1 +1,1 @@
-# Advance-RAG-app-with-AWS-Bedrock
+# AWS-Bedrock
